@@ -1,2 +1,3 @@
 # hello-world
-Github intro
+
+Well well well. Here we are - time to complete CS50
